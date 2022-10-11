@@ -1,1 +1,1 @@
-İlk ödev yapılıyor.
+<a href="https://www.patika.dev/tr"> Patika </a>
